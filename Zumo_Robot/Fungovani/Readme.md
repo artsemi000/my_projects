@@ -9,6 +9,8 @@ Použil jsem řadu infračervených (IR) senzorů, které detekují odraz světl
 # Možné vylepšení
 Projekt má stále prostor pro rozvoj. Do budoucna bych rád přidal:
 
+Odstranil závislost na kabelovém připojení. V současné podobě robot funguje pouze přes USB kabel, což výrazně omezuje jeho pohyblivost a do určité míry popírá smysl celého projektu. Aby mohl skutečně fungovat jako autonomní jednotka, je potřeba doplnit nezávislé napájení (například akumulátor) a umožnit spuštění bez trvalého připojení k počítači. Díky tomu by bylo možné robota používat i v reálném prostředí, kde by kabely překážely.
+
 Bluetooth ovládání pro možnost manuálního řízení nebo nastavení parametrů robota přímo z mobilní aplikace.
 
 Automatickou kalibraci senzorů pro různé typy povrchů a světelných podmínek, aby robot fungoval spolehlivě i mimo testovací prostředí.
