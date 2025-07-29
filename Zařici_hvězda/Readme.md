@@ -46,3 +46,6 @@ Získal jsem přehled o tom, jak propojit elektroniku, mechaniku a dokumentaci d
 
 Celkově šlo o velmi přínosnou práci, která mi dala nejen nové dovednosti, ale i představu, jak vypadá reálný vývoj zařízení – od návrhu až po finální výrobek. Také to byla skvělá příležitost, jak si vyzkoušet samostatné rozhodování i technické myšlení v praxi.
 
+## 📄
+V přiloženém souboru naleznete [Protokol](./Protokol), který podrobně popisuje celý průběh a výsledky práce. 
+Taky v souboru [Prace](./Prace) тajdete veškerou dokumentaci týkající se této práce.
