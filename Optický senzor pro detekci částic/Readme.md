@@ -12,21 +12,20 @@ Další nezbytnou součástí bylo pečlivé plánování, kdy jsme museli vyře
 
 Celý projekt tak nebyl jen o technickém návrhu, ale i o reálném praktickém zvládnutí výroby, programování a koordinace týmu, což výrazně přispělo k našemu profesnímu růstu a pochopení komplexního procesu vývoje takového zařízení.
 
-# Co jsme zjistili:
+## ✅ Co jsme zjistili:
 Zelený laser vykazoval vyšší citlivost než červený.
 
 Při vyšších koncentracích prachu byly výsledky stabilnější.
 
 Měření je potřeba provádět ve stínu, aby na senzory nepůsobilo vnější světlo.
 
-# Možnosti vylepšení:
+##  Možnosti vylepšení:
 Přidání WiFi nebo Bluetooth pro bezdrátový přenos dat.
 
 Napájení z baterie pro plně autonomní provoz bez kabelu.
 
 Kalibrace na další typy částic (např. pyl, kouř).
 
-## Protokol
-
-📄 V přiloženém souboru najdete celý protokol, který podrobně popisuje konstrukci, princip fungování, použité komponenty, schéma zapojení, výsledky měření i návrhy na další rozšíření. 
+## 📄
+V přiloženém souboru najdete celý protokol, který podrobně popisuje konstrukci, princip fungování, použité komponenty, schéma zapojení, výsledky měření i návrhy na další rozšíření. 
 [Protokol](./Protokol)
