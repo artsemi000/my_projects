@@ -48,4 +48,4 @@ Celkově šlo o velmi přínosnou práci, která mi dala nejen nové dovednosti,
 
 ## 📄
 V přiloženém souboru naleznete [Protokol.pdf](./Protokol.pdf), který podrobně popisuje celý průběh a výsledky práce. 
-Taky v souboru [Prace](./Prace) тajdete veškerou dokumentaci týkající se této práce.
+Taky v souboru [Práce](./Práce) тajdete veškerou dokumentaci týkající se této práce.
