@@ -16,6 +16,8 @@ Jsem konkretně pro robota používál mikrokontrolér STM32F411RE.
 ## 🔗 Odkaz na výrobce
 https://www.pololu.com/product/2510
 
+https://www.pololu.com/product/1419
+
 ## 📂 Kód
 Kód najdeš ve složce [Code](./Code)
 
