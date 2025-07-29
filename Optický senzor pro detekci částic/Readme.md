@@ -19,4 +19,4 @@ Napájení z baterie pro plně autonomní provoz bez kabelu.
 Kalibrace na další typy částic (např. pyl, kouř).
 
 📄 V přiloženém souboru najdete celý protokol, který podrobně popisuje konstrukci, princip fungování, použité komponenty, schéma zapojení, výsledky měření i návrhy na další rozšíření. 
-## [Protokol](/.Protokol)
+[Protokol](/.Protokol)
