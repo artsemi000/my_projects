@@ -10,6 +10,7 @@ Jsem konkretně pro robota používál mikrokontrolér STM32F411RE.
 
 ## 📸 Obrázky
 <img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/f56063a3-0f15-4052-8798-1e2b3eeb80e7" />
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/949ed66c-f494-464b-a55e-928b1f15c18d" />
 
 
 ## 🔗 Odkaz na výrobce
