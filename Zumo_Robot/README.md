@@ -19,7 +19,7 @@ https://www.pololu.com/product/2510
 https://www.pololu.com/product/1419
 
 ## 📂 Kód
-Kód je ve složce [Kód](./Kód)
+Kód je ve složce [Code](./Code)
 
 ## ▶️ Fungování
 Video robota je ve složce [Fungovani](./Fungovani)
