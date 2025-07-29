@@ -2,7 +2,15 @@ Spolu s kolegy na univerzitě jsme navrhli malý a cenově dostupný senzor, kte
 
 Zařízení je řízeno pomocí Arduino Nano, které zajišťuje sběr a zpracování dat. Pro přesnější výstup používáme jednoduchý algoritmus (Random Forest), který pomáhá vyhodnotit koncentrace.
 
-Senzor jsme navrhli tak, aby byl kompaktní, levný a vhodný pro domácí nebo průmyslové použití.
+Senzor jsme navrhli tak, aby byl kompaktní, levný a vhodný pro domácí nebo průmyslové použití. 
+
+V rámci této práce jsme se nepouze zabývali návrhem samotného optického senzoru, ale také jsme aktivně pracovali na jeho výrobě a praktické realizaci. Součástí projektu bylo i programování Arduino, které řídí celý proces měření a zpracování dat ze senzorů.
+
+Důležitou částí naší práce byla také tvorba 3D tištěného rámu, který slouží jako pevná a přesná konstrukce pro upevnění všech součástek senzoru. Tento rám jsme navrhli tak, aby dokonale držel všechny komponenty na správném místě a umožňoval snadnou manipulaci i montáž.
+
+Další nezbytnou součástí bylo pečlivé plánování, kdy jsme museli vyřešit, které díly a materiály budeme pro výrobu potřebovat, jak je objednat a jak efektivně nakoupit vše potřebné. Tento proces nás naučil nejen plánování a organizaci, ale také efektivní týmovou spolupráci.
+
+Celý projekt tak nebyl jen o technickém návrhu, ale i o reálném praktickém zvládnutí výroby, programování a koordinace týmu, což výrazně přispělo k našemu profesnímu růstu a pochopení komplexního procesu vývoje takového zařízení.
 
 # Co jsme zjistili:
 Zelený laser vykazoval vyšší citlivost než červený.
