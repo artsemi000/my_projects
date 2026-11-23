@@ -1,29 +1,23 @@
-V tomto oddílu můžete vidět video s výsledky mého projektu. Robot dokáže spolehlivě sledovat černou čáru díky infračerveným senzorům, které jsem integroval a nakonfiguroval. Při pohybu plynule zatáčí, udržuje stabilní rychlost a dokáže se vyhýbat překážkám. Veškeré pohyby jsou řízeny vlastním algoritmem, který jsem navrhl pro zpracování dat ze senzorů a dynamické řízení motorů.
+In this section, you can see videos demonstrating the results of my project. The robot reliably follows a black line using the infrared sensors I integrated and configured. It turns smoothly, maintains a steady speed, and avoids obstacles. All movements are controlled by a custom algorithm I designed for sensor data processing and dynamic motor control.
 
-# Jak senzory fungují?
-Použil jsem řadu infračervených (IR) senzorů, které detekují odraz světla od podkladu. Světlý povrch světlo odráží, zatímco černá čára světlo pohlcuje — díky tomu může mikrokontrolér jednoduše rozlišit, kde se čára nachází, a podle toho upravit směr pohybu. Výstupy ze senzorů jsou neustále vyhodnocovány a podle nich se automaticky regulují otáčky jednotlivých kol.
+# How Do the Sensors Work?
+I used an array of infrared (IR) sensors that detect light reflected from the surface below. A light-colored surface reflects the infrared light, whereas a black line absorbs it — allowing the microcontroller to easily determine the line's position and adjust the direction of travel accordingly. Sensor readings are continuously evaluated in real time to dynamically regulate the speed of each wheel.
 
-# Proč právě černá čára?
-Černá barva pohlcuje většinu světla, což poskytuje jasný kontrast vůči okolnímu povrchu. To umožňuje velmi přesnou detekci i při vyšších rychlostech. Díky tomu je čára jednoznačně rozpoznatelná i bez složitého zpracování obrazu.
+# Why a Black Line?
+Black surfaces absorb most of the incident light, creating a sharp contrast against a bright background. This enables highly accurate detection even at higher speeds, making the track clearly recognizable without requiring complex image processing.
 
-# Možné vylepšení
-Projekt má stále prostor pro rozvoj. Do budoucna bych rád přidal:
+# Future Improvements
+There is still plenty of room to expand this project. In the future, I plan to add:
 
-Odstranil závislost na kabelovém připojení. V současné podobě robot funguje pouze přes USB kabel, což výrazně omezuje jeho pohyblivost a do určité míry popírá smysl celého projektu. Aby mohl skutečně fungovat jako autonomní jednotka, je potřeba doplnit nezávislé napájení (například akumulátor) a umožnit spuštění bez trvalého připojení k počítači. Díky tomu by bylo možné robota používat i v reálném prostředí, kde by kabely překážely.
+* **Tetherless Operation:** Currently, the robot operates via a USB connection, which restricts its mobility. To make it a truly autonomous unit, it needs an independent power source (such as a battery pack) and standalone startup without a continuous PC connection, allowing it to operate freely in real-world environments.
+* **Bluetooth Control:** Adding wireless connectivity for manual remote control or real-time parameter tuning (e.g., PID gains) directly from a mobile app.
+* **Automatic Sensor Calibration:** Implementing adaptive calibration for varying surface types and ambient lighting conditions so the robot performs reliably outside of a controlled test environment.
 
-Bluetooth ovládání pro možnost manuálního řízení nebo nastavení parametrů robota přímo z mobilní aplikace.
+# Real-World Applications
+This type of autonomous robot can be utilized in logistics centers or warehouses to transport goods along predefined routes. Its ability to accurately follow paths, avoid obstacles, and operate autonomously can significantly improve operational efficiency.
 
-Automatickou kalibraci senzorů pro různé typy povrchů a světelných podmínek, aby robot fungoval spolehlivě i mimo testovací prostředí.
+# Videos
 
-# Příklad využití v praxi
-Tento typ robota by mohl najít uplatnění například v logistických centrech nebo skladech, kde by automaticky převážel zboží po předem vyznačených trasách. Díky své schopnosti sledovat čáru, vyhýbat se překážkám a pracovat autonomně by mohl výrazně zvýšit efektivitu práce.
-
-# Video
-
-
-https://github.com/user-attachments/assets/3d734bd0-4033-43b4-8e58-e23ada83a7e4
-
-
+https://github.com/user-attachments/assets/3d734bd0-3033-43b4-8e58-e23ada83a7e4
 
 https://github.com/user-attachments/assets/e42ae48e-35be-4841-bbe5-0cb834590ab0
-
