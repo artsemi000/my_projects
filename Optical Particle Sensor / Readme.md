@@ -28,4 +28,4 @@ Overall, the project was not just about technical design but also involved the p
 
 The attached document contains the complete technical report, describing the sensor's construction, operating principle, components used, wiring diagram, measurement results, and proposals for further development.
 
-[Technical Report](./Protokol)
+[Technical Report](https://github.com/artsemi000/my_projects/blob/main/Optical%20Particle%20Sensor%20/%20Technical%20Report%20/%20Optick%C3%BD_senzor.pdf)
