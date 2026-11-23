@@ -17,3 +17,4 @@ Qty Value   Device        Package      Parts                                    
 14  RG10    LEDLED_1206_2 CHIPLED_1206 D1-1, D1-2, D2-1, D2-2, D3-1, D3-2, D4-1, D4-2, D5-1, D5-2, D6-1, D6-2, D7-1, D7-2 Red LED, SMD                                                                  12,74 MOUSER                APT3216SECK/J3-PRV          604-APT3216SECKJ3PRV           
 12  RG3     LEDLED_1206_2 CHIPLED_1206 D14-1, D14-2, D15-1, D15-2, D16-1, D16-2, D17-1, D17-2, D18-1, D18-2, D19-1, D19-2 Red LED, SMD                                                                  12,74 MOUSER                APT3216SECK/J3-PRV          604-APT3216SECKJ3PRV           
 12  RG5     LEDLED_1206_2 CHIPLED_1206 D8-1, D8-2, D9-1, D9-2, D10-1, D10-2, D11-1, D11-2, D12-1, D12-2, D13-1, D13-2     Red LED, SMD                                                                  12,74 MOUSER                APT3216SECK/J3-PRV          604-APT3216SECKJ3PRV           
+
