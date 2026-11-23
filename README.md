@@ -21,21 +21,21 @@ Autonomous line-following robot built around an **STM32F411RE** microcontroller.
 * Implemented PID motor control algorithms and sensor calibration in Embedded C
 * Integrated a six-channel infrared sensor array for real-time track detection
 
-[View Project](https://github.com/artsemi000/my_projects/tree/main/Zumo_Robot) | [Source Code](#) | [Videos](#)
+[View Project](https://github.com/artsemi000/my_projects/tree/main/Zumo_Robot) | [Principle of Operation]((https://github.com/artsemi000/my_projects/tree/main/Zumo_Robot/Fungovani))
 
-#### 2. Zářící hvězda (Glowing Star) — Electronic Circuit & PCB Design
+#### 2. Glowing Star — Electronic Circuit & PCB Design
 Custom LED lighting device designed from concept to production-ready documentation.
 * Created electronic schematics, PCB layout, and Bill of Materials (BOM) in Autodesk EAGLE
 * Designed a custom mechanical enclosure in SolidWorks and estimated manufacturing costs
 
-[View Project](#) | [PCB Documentation](#)
+[View Project](https://github.com/artsemi000/my_projects/tree/main/Zařici_hvězda)  | [PCB Documentation](https://github.com/artsemi000/my_projects/blob/main/Zařici_hvězda/Protokol.pdf)     
 
 #### 3. Optical Particle Sensor — Measurement System Development
 University team project focused on building an optical sensor for airborne particulate matter (**PM1.0, PM2.5, PM10**).
 * Developed an Arduino Nano-based data acquisition system using lasers and photodiodes
 * Built the 3D-printed mechanical frame and analyzed experimental measurement data
 
-[View Project](#)
+[View Project](https://github.com/artsemi000/my_projects/tree/main/Optický%20senzor%20pro%20detekci%20částic)
 
 ---
 
@@ -47,4 +47,4 @@ I am open to working on small engineering projects involving:
 * Sensor integration and hardware prototyping
 * 3D modelling of electronic enclosures
 
-For project inquiries, feel free to reach out via [Email](art.com.2003@gmail.com).
+For project inquiries, feel free to reach out via [Email](art.com.2003@gmail.com)
