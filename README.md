@@ -21,7 +21,7 @@ Autonomous line-following robot built around an **STM32F411RE** microcontroller.
 * Implemented PID motor control algorithms and sensor calibration in Embedded C
 * Integrated a six-channel infrared sensor array for real-time track detection
 
-[View Project]([./Zumo%20Robot%20/README.md](https://github.com/artsemi000/my_projects/blob/main/Zumo%20Robot%20/%20README.md)
+[View Project](https://github.com/artsemi000/my_projects/blob/main/Zumo%20Robot%20/%20README.md)
 
 #### 2. Glowing Star — Electronic Circuit & PCB Design
 Custom LED lighting device designed from concept to production-ready documentation.
