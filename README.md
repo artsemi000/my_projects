@@ -47,4 +47,4 @@ I am open to working on small engineering projects involving:
 * Sensor integration and hardware prototyping
 * 3D modelling of electronic enclosures
 
-For project inquiries, feel free to reach out via [Email](art.com.2003@gmail.com)
+For project inquiries, feel free to reach out via [Email](mailto:art.com.2003@gmail.com)
