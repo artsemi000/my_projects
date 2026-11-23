@@ -34,5 +34,5 @@ This project provided valuable hands-on experience beyond standard classroom the
 Overall, it was a highly rewarding project that demonstrated how real-world hardware development works — from initial concept to a finished prototype — while strengthening my independent problem-solving and engineering decision-making skills.
 
 ## 📄 Documentation
-* In the attached [Protokol.pdf](./Protokol.pdf), you can find a detailed report covering the design process and project results.
-* All project files and additional documentation are available in the [Práce](./Práce) folder.
+* In the attached [Technical Report.pdf](./Technical%20Report.pdf), you can find a detailed report covering the design process and project results.
+* All project files and additional documentation are available in the [Práce](./Documentation) folder.
