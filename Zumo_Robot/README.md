@@ -1,25 +1,22 @@
 # Zumo Robot
 
-Zumo Robot je malý pásový robot kompatibilní s Arduino. Obsahuje dva motory s pásy, čepel ve stylu buldozeru, 6 infračervených senzorů pro sledování čáry, bzučák a 3osý akcelerometr, gyroskop a magnetometr. Stačí připojit Arduino a 4 AA baterie – bez potřeby pájení nebo složení.
-Jsem konkretně pro robota používál mikrokontrolér STM32F411RE.
+The Zumo Robot is a compact, Arduino-compatible tracked robot. It features two micro metal gearmotors with tracks, a bulldozer-style front blade, a 6-sensor infrared reflectance array for line following, a buzzer, and a 3-axis accelerometer, gyroscope, and magnetometer. It runs on 4 AA batteries and requires no soldering or assembly—just plug in the microcontroller board. For this project, I used an **STM32F411RE** microcontroller.
 
-## 🔧 Vlastnosti
-- Kalibrace senzorů
-- PID řízení motorů
-- Dvoufázové spuštění pomocí tlačítka
+## 🔧 Features
+- Sensor calibration
+- PID motor control
+- Two-stage button-triggered start sequence
 
-## 📸 Obrázky
-<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/f56063a3-0f15-4052-8798-1e2b3eeb80e7" />
-<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/949ed66c-f494-464b-a55e-928b1f15c18d" />
+## 📸 Gallery
+<img width="600" height="480" alt="Zumo Robot View 1" src="https://github.com/user-attachments/assets/f56063a3-0f15-4052-8798-1e2b3eeb80e7" />
+<img width="600" height="480" alt="Zumo Robot View 2" src="https://github.com/user-attachments/assets/949ed66c-f494-464b-a55e-928b1f15c18d" />
 
+## 🔗 Manufacturer Links
+* [Pololu Zumo Robot for Arduino (Assembled)](https://www.pololu.com/product/2510)
+* [Pololu Zumo Chassis Kit](https://www.pololu.com/product/1419)
 
-## 🔗 Odkaz na výrobce
-https://www.pololu.com/product/2510
+## 📂 Source Code
+The source code is available in the [Code](./Code) folder.
 
-https://www.pololu.com/product/1419
-
-## 📂 Kód
-Kód je ve složce [Code](./Code)
-
-## ▶️ Fungování
-Video robota je ve složce [Fungovani](./Fungovani)
+## ▶️ Principle of Operation
+Demonstration videos of the robot in action can be found in the [Fungovani](./Fungovani) folder.
