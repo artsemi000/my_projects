@@ -35,4 +35,4 @@ Overall, it was a highly rewarding project that demonstrated how real-world hard
 
 ## 📄 Documentation
 * In the attached [Technical Report.pdf](./Technical%20Report.pdf), you can find a detailed report covering the design process and project results.
-* All project files and additional documentation are available in the [Documentation](./Documentation) folder.
+* All project files and additional documentation are available in the [Documentation](https://github.com/artsemi000/my_projects/tree/main/Glowing%20Star%20/%20Documentation%20)folder.
