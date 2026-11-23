@@ -34,5 +34,5 @@ This project provided valuable hands-on experience beyond standard classroom the
 Overall, it was a highly rewarding project that demonstrated how real-world hardware development works — from initial concept to a finished prototype — while strengthening my independent problem-solving and engineering decision-making skills.
 
 ## 📄 Documentation
-* In the attached [[Technical Report.pdf](./Technical%20Report.pdf)](https://github.com/artsemi000/my_projects/blob/main/Glowing%20Star%20/%20Technical_Report.pdf), you can find a detailed report covering the design process and project results.
+* In the attached [Technical Report.pdf](https://github.com/artsemi000/my_projects/blob/main/Glowing%20Star%20/%20Technical_Report.pdf), you can find a detailed report covering the design process and project results.
 * All project files and additional documentation are available in the [Documentation](https://github.com/artsemi000/my_projects/tree/main/Glowing%20Star%20/%20Documentation%20)folder.
