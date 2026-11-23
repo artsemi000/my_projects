@@ -35,4 +35,4 @@ Overall, it was a highly rewarding project that demonstrated how real-world hard
 
 ## 📄 Documentation
 * In the attached [Technical Report.pdf](./Technical%20Report.pdf), you can find a detailed report covering the design process and project results.
-* All project files and additional documentation are available in the [Práce](./Documentation) folder.
+* All project files and additional documentation are available in the [Documentation](./Documentation) folder.
