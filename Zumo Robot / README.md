@@ -16,7 +16,7 @@ The Zumo Robot is a compact, Arduino-compatible tracked robot. It features two m
 * [Pololu Zumo Chassis Kit](https://www.pololu.com/product/1419)
 
 ## 📂 Source Code
-The source code is available in the [Code](./Code) folder.
+The source code is available in the [Code](https://github.com/artsemi000/my_projects/tree/main/Zumo%20Robot%20/%20Code%20)) folder.
 
 ## ▶️ Principle of Operation
-Demonstration videos of the robot in action can be found in the [Fungovani](./Fungovani) folder.
+Demonstration videos of the robot in action can be found in the [Operation](https://github.com/artsemi000/my_projects/tree/main/Zumo%20Robot%20/%20Code%20)) folder.
