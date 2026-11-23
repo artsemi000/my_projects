@@ -18,6 +18,6 @@ This type of autonomous robot can be utilized in logistics centers or warehouses
 
 # Videos
 
-https://github.com/user-attachments/assets/3d734bd0-3033-43b4-8e58-e23ada83a7e4
+
 
 https://github.com/user-attachments/assets/e42ae48e-35be-4841-bbe5-0cb834590ab0
