@@ -28,14 +28,14 @@ Custom LED lighting device designed from concept to production-ready documentati
 * Created electronic schematics, PCB layout, and Bill of Materials (BOM) in Autodesk EAGLE
 * Designed a custom mechanical enclosure in SolidWorks and estimated manufacturing costs
 
-[View Project](./Glowing%20Star%20/Readme.md)    
+[View Project](https://github.com/artsemi000/my_projects/blob/main/Glowing%20Star%20/%20Readme.md) 
 
 #### 3. Optical Particle Sensor — Measurement System Development
 University team project focused on building an optical sensor for airborne particulate matter (**PM1.0, PM2.5, PM10**).
 * Developed an Arduino Nano-based data acquisition system using lasers and photodiodes
 * Built the 3D-printed mechanical frame and analyzed experimental measurement data
 
-[View Project](./Optical%20Particle%20Sensor%20/Readme.md)
+[View Project](https://github.com/artsemi000/my_projects/blob/main/Optical%20Particle%20Sensor%20/%20Readme.md)  
 
 ---
 
